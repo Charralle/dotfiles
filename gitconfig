@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = charles-alexandre.tiago@hotmail.com
+	name = Charlesalerxandre Tiago
